@@ -1,5 +1,4 @@
 # 👋 About Me:
-15 year old jr. develoeper working for my dad. <br>
 **Currently Working On:** Backend WordPress Development<br>**Working For:** [NCD Solutions, LLC.](https://ncdsolutions.com)
 
 
